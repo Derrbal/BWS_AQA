@@ -1,6 +1,6 @@
 class StartPage {
     
-    get SignIn_Button () {return $('button[class = "styles_btn__9DPcn styles_btnColorOrange__Jnd2G styles_btnStyleFilled__UVKdC"]')};
+    get Sign_Button () {return $('button[class = "styles_btn__9DPcn styles_btnColorOrange__Jnd2G styles_btnStyleFilled__UVKdC"]')};
     get Email_Field () {return $('input[name = "email"]')};
     get Password_Field () {return $('input[name = "password"]')};
     get SignInAsWorker_Button () {return $('button[class = "styles_button__azUJI"]')};
