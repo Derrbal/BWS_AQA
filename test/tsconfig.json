@@ -13,7 +13,7 @@
             "expect-webdriverio"
         ],
         "module": "commonjs",
-        "target": "ES5",
+        "target": "ES6",
         
     }
 }
