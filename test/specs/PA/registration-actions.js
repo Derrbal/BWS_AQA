@@ -1,5 +1,5 @@
-const StartPage = require('../PO/registration');
-const start = new StartPage(); 
+const registration = require('../PO/registration');
+const start = new registration();
 const testData = require('../Test Data/start-page-data.json');
 
 class StartpageActions {
